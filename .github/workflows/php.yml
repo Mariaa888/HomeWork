@@ -1,4 +1,4 @@
-name: Run PHP Script
+run: composer install
 
 on:
   push:
