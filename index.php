@@ -194,6 +194,11 @@ session_start();
 
     <script src="js/home1.js">
     </script>
+
+        <h1>Hello World</h1>
+        <p>I'm hosted with GitHub Pages.</p>
+
+    </html>
 </body>
 
 </html>
